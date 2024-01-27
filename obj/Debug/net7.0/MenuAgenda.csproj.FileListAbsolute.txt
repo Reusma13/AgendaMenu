@@ -1,0 +1,14 @@
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\MenuAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\MenuAgenda.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\MenuAgenda.AssemblyInfo.cs
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\MenuAgenda.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\bin\Debug\net7.0\MenuAgenda.exe
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\bin\Debug\net7.0\MenuAgenda.deps.json
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\bin\Debug\net7.0\MenuAgenda.runtimeconfig.json
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\bin\Debug\net7.0\MenuAgenda.dll
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\bin\Debug\net7.0\MenuAgenda.pdb
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\MenuAgenda.dll
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\refint\MenuAgenda.dll
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\MenuAgenda.pdb
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\MenuAgenda.genruntimeconfig.cache
+C:\Users\smart\source\repos\MenuAgenda\MenuAgenda\obj\Debug\net7.0\ref\MenuAgenda.dll
